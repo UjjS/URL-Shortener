@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://shikharujjwal:Sangita123@cluster0.ndtogya.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}

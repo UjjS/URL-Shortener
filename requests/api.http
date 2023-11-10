@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://simplify.jobs/blog/how-to-use-chatgpt-to-write-and-improve-your-resume/"
+}
